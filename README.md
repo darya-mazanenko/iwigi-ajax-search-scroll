@@ -1,4 +1,4 @@
-## IAjax Infinite Woo Search Scroll
+## Ajax Infinite Woo Search Scroll
 
 **Description** 
 
