@@ -1,0 +1,7 @@
+/**
+ * Hide sorting elements such as dropdown, pagination on Search page 
+ * on the top and the bottom of the page
+ */
+.storefront-sorting {
+    display: none;
+}
