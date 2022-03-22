@@ -46,7 +46,7 @@ if( ! function_exists( 'iwigi_ajax_search_scroll_requirements' ) ) {
             
         } else {
             
-            add_filter( 'admin_notices', 'iwigi_ajax_search_scroll_requirements' );
+            add_action( 'admin_notices', 'iwigi_ajax_search_scroll_requirements' );
             
         }
     }
